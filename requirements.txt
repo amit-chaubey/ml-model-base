@@ -1,0 +1,19 @@
+# Core data science packages
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Excel file support
+openpyxl>=3.1.0
+
+# Optional: Advanced modeling
+xgboost>=2.0.0
+lightgbm>=4.0.0
+
+# Optional: Jupyter support (if needed)
+jupyter>=1.0.0
+notebook>=7.0.0
